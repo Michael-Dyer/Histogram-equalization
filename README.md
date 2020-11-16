@@ -5,4 +5,13 @@ This project uses Opencv to compute a histogram of a given image. From here the 
 To run program, execute; program histo [-h] [-m=n] imagefile [histogram]
 "m=1 will be histogram equalization, m=2 is histogram matching and m=3 is histogram matching with a file (that is selected with the last argument)
 
+
+
+# Before Picture
+[!before](https://github.com/Michael-Dyer/Histogram-equalization/blob/main/before.PNG)
+
+# After Picture
+[[!after](https://github.com/Michael-Dyer/Histogram-equalization/blob/main/after.png)
+
+
 I am able to answer any questions regarding installing opencv or this project on my personal email.
