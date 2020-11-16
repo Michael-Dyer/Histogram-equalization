@@ -11,7 +11,7 @@ To run program, execute; program histo [-h] [-m=n] imagefile [histogram]
 [!before](https://github.com/Michael-Dyer/Histogram-equalization/blob/main/before.PNG)
 
 # After Picture
-[[!after](https://github.com/Michael-Dyer/Histogram-equalization/blob/main/after.png)
+[!after](https://github.com/Michael-Dyer/Histogram-equalization/blob/main/after.png)
 
 
 I am able to answer any questions regarding installing opencv or this project on my personal email.
