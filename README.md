@@ -9,7 +9,7 @@ To run program, execute; program histo [-h] [-m=n] imagefile [histogram]
 
 # Before Picture
 [!before](before.PNG?raw=true)
-
+<img src="before.PNG?raw=true" />
 # After Picture
 [!after](after.png?raw=true)
 
