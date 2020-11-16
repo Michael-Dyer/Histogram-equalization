@@ -8,10 +8,10 @@ To run program, execute; program histo [-h] [-m=n] imagefile [histogram]
 
 
 # Before Picture
-[!before](before.PNG)
+[!before](before.PNG?raw=true)
 
 # After Picture
-[!after](after.png)
+[!after](after.png?raw=true)
 
 
 I am able to answer any questions regarding installing opencv or this project on my personal email.
